@@ -8,6 +8,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io
-git push -f git@github.com:sthwhl/books.git main
+git push -f git@github.com:sthwhl/books.git master
 
 cd -
